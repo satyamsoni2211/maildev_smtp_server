@@ -25,7 +25,7 @@ Received shutdown signal, shutting down now...
 
 You can then access you web server over http://localhost:1080 to check you emails. 
 
-<span><img src="https://raw.githubusercontent.com/maildev/maildev/gh-pages/images/screenshot-2021-01-03.png" height="400" width="400"/></span>
+<span><img src="https://raw.githubusercontent.com/maildev/maildev/gh-pages/images/screenshot-2021-01-03.png" height="400" width="100%"/></span>
 
 ### Default Port override
 
